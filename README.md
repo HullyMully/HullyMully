@@ -11,12 +11,6 @@ Junior Developer focused on Python, JavaScript, Telegram bots, web apps and appl
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<!-- TODO:
-- Add real contact links
-- Pin featured repositories
-- Add demo screenshots/videos to project repositories
--->
-
 ## English
 
 ### About Me
@@ -37,9 +31,9 @@ Python, JavaScript, HTML, CSS, FastAPI, Telegram Bot API, YOLOv8, OpenCV, ByteTr
 
 Real-time CS2 commentary prototype using computer vision, event detection, FastAPI, LLM-based text generation and TTS.
 
-**[Telegram Booking Mini App & Bot](https://github.com/HullyMully/telegram-booking-miniapp-bot)**
+**[TotalBody Telegram Mini App & Bot](https://github.com/HullyMully/totalbody-telegram-miniapp-bot)**
 
-Anonymized Telegram Mini App and bot for service booking, client profiles and admin broadcasts. The original paid freelance project included company information, services, pricing, client data collection, booking flow, personal cabinet and admin broadcast functionality.
+Public portfolio version of a freelance Telegram Mini App and bot for TotalBody stretching studio. The project includes service information, pricing, client data collection, booking flow, user profile and admin broadcast functionality.
 
 More detailed READMEs are available inside the project repositories.
 
@@ -73,9 +67,9 @@ Python, JavaScript, HTML, CSS, FastAPI, Telegram Bot API, YOLOv8, OpenCV, ByteTr
 
 Прототип комментатора для CS2 в реальном времени с использованием компьютерного зрения, детекции событий, FastAPI, LLM-генерации текста и TTS.
 
-**[Telegram Booking Mini App & Bot](https://github.com/HullyMully/telegram-booking-miniapp-bot)**
+**[TotalBody Telegram Mini App & Bot](https://github.com/HullyMully/totalbody-telegram-miniapp-bot)**
 
-Анонимизированный Telegram Mini App и бот для записи на услуги, клиентских профилей и админских рассылок. Исходный коммерческий фриланс-проект включал информацию о компании, услуги, цены, сбор данных клиентов, сценарий записи, личный кабинет и функциональность рассылок от администратора.
+Публичная портфолио-версия фриланс-проекта Telegram Mini App и Telegram-бота для студии растяжки TotalBody. Проект включает информацию об услугах и ценах, сбор данных клиентов, сценарий записи, личный кабинет пользователя и админские рассылки.
 
 Более подробные README доступны внутри репозиториев проектов.
 
@@ -88,3 +82,9 @@ Python, JavaScript, HTML, CSS, FastAPI, Telegram Bot API, YOLOv8, OpenCV, ByteTr
 - GitHub: [github.com/HullyMully](https://github.com/HullyMully)
 - Email: доступен в резюме
 - Telegram / LinkedIn: места для реальных ссылок на профили
+
+<!-- TODO:
+- Add real contact links
+- Pin featured repositories
+- Add demo screenshots/videos to project repositories
+-->
