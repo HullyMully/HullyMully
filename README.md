@@ -1,6 +1,6 @@
 # HullyMully
 
-Junior Developer focused on Python, JavaScript, Telegram bots, web apps and applied computer vision projects.
+Junior Developer focused on Python, AI, JavaScript, Telegram bots, web apps and applied computer vision projects.
 
 [🇺🇸English](#english) | [🇷🇺Русский](#русский)
 
