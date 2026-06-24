@@ -67,7 +67,8 @@ Python, JavaScript, HTML, CSS, FastAPI, Telegram Bot API, YOLOv8, OpenCV, ByteTr
 
 ### Избранные проекты
 
-AI Customer Assistant Platform
+**[AI Customer Assistant Platform](https://github.com/HullyMully/ai-marketing-agent-rag-langgraph)**
+
 Настраиваемая платформа AI-ассистента для небольших компаний. Ассистент умеет отвечать на вопросы клиентов, использовать RAG-базу знаний, сохранять контекст диалога, собирать данные лида, создавать лиды и тикеты поддержки, а также сохранять диалоги, лиды и тикеты в базу данных.
 Проект включает FastAPI backend, агентный flow на LangGraph, LLM planner, RAG с Qdrant, сохранение данных в SQLite, интеграцию с Telegram-ботом, web UI и админ-панель для просмотра сохранённых диалогов, лидов и тикетов.
 
