@@ -2,7 +2,7 @@
 
 Junior Developer focused on Python, JavaScript, Telegram bots, web apps and applied computer vision projects.
 
-[🇬🇧 English](#english) | [🇷🇺 Русский](#русский)
+[🇺🇸English](#english) | [🇷🇺Русский](#русский)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111)
@@ -27,6 +27,11 @@ Python, JavaScript, HTML, CSS, FastAPI, Telegram Bot API, YOLOv8, OpenCV, ByteTr
 
 ### Featured Projects
 
+**[AI Customer Assistant Platform](https://github.com/HullyMully/ai-marketing-agent-rag-langgraph)**
+
+Configurable AI customer assistant platform for small companies. The assistant can answer customer questions, use a RAG knowledge base, keep conversation context, collect lead details, create leads and support tickets, and save conversations, leads and tickets to a database.
+The project includes a FastAPI backend, LangGraph-based agent flow, LLM planner, RAG with Qdrant, SQLite persistence, Telegram bot integration, web UI and an admin panel for reviewing saved conversations, leads and tickets. 
+
 **[CS2 AI Commentator](https://github.com/HullyMully/cs2-ai-commentator)**
 
 Real-time CS2 commentary prototype using computer vision, event detection, FastAPI, LLM-based text generation and TTS.
@@ -44,8 +49,7 @@ I am looking for Junior Developer, Junior Fullstack or Junior Python Developer o
 ### Contact
 
 - GitHub: [github.com/HullyMully](https://github.com/HullyMully)
-- Email: available in my resume
-- Telegram / LinkedIn: placeholders for real profile links
+- Email: davidTsykunov@gmail.com
 
 ## Русский
 
@@ -53,7 +57,7 @@ I am looking for Junior Developer, Junior Fullstack or Junior Python Developer o
 
 Я начинающий разработчик с практическим проектным опытом в Telegram Mini Apps, Telegram-ботах, веб-интерфейсах, backend API и прототипах на базе компьютерного зрения.
 
-Учился по направлению Computer Science / Информатика и вычислительная техника в Омском государственном университете. Мне интересно создавать прикладные инструменты, где backend-логика, интерфейсы и автоматизация работают вместе.
+Учился по направлению Информатика и вычислительная техника в Омском государственном университете. Мне интересно создавать прикладные инструменты, где backend-логика, интерфейсы и автоматизация работают вместе.
 
 Уровень английского: A2-B1.
 
@@ -62,6 +66,10 @@ I am looking for Junior Developer, Junior Fullstack or Junior Python Developer o
 Python, JavaScript, HTML, CSS, FastAPI, Telegram Bot API, YOLOv8, OpenCV, ByteTrack, TTS, Git, VDS/Selectel deployment.
 
 ### Избранные проекты
+
+AI Customer Assistant Platform
+Настраиваемая платформа AI-ассистента для небольших компаний. Ассистент умеет отвечать на вопросы клиентов, использовать RAG-базу знаний, сохранять контекст диалога, собирать данные лида, создавать лиды и тикеты поддержки, а также сохранять диалоги, лиды и тикеты в базу данных.
+Проект включает FastAPI backend, агентный flow на LangGraph, LLM planner, RAG с Qdrant, сохранение данных в SQLite, интеграцию с Telegram-ботом, web UI и админ-панель для просмотра сохранённых диалогов, лидов и тикетов.
 
 **[CS2 AI Commentator](https://github.com/HullyMully/cs2-ai-commentator)**
 
@@ -80,11 +88,4 @@ Python, JavaScript, HTML, CSS, FastAPI, Telegram Bot API, YOLOv8, OpenCV, ByteTr
 ### Контакты
 
 - GitHub: [github.com/HullyMully](https://github.com/HullyMully)
-- Email: доступен в резюме
-- Telegram / LinkedIn: места для реальных ссылок на профили
-
-<!-- TODO:
-- Add real contact links
-- Pin featured repositories
-- Add demo screenshots/videos to project repositories
--->
+- Email: davidTsykunov@gmail.com
